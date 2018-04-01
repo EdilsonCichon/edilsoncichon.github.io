@@ -1,4 +1,4 @@
 (function() {
-  "use strict"; // Start of use strict
+  "use strict";
   // empty
-})(); // End of use strict
+})();

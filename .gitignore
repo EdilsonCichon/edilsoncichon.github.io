@@ -64,3 +64,6 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
+
+# Sass
+.sass-cache
